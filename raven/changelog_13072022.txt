@@ -1,0 +1,20 @@
+Device:-
+
+
+**TEST OTA**
+
+Initial public release 
+Radioactive Kernel 
+July patch device side fixes merged
+
+Source:-
+1.EasterEgg: Implement Android 12L Easter Egg 
+2.Fix suspicious spaces around mobile icons 
+3.Fix QS mobile icon disappearing on theme switch 
+4.Restore brightness adjustment on boot 
+5.Force a reset if brightness adjustment is changed directly 
+ 6.Use same Vibrate icon as that in alert slider 
+7.Don't let "extra dim" affect brightness adjustment
+8.Added OTA  Support
+9.Merged latest secuirty patches
+10.Improved & fixed know issues
